@@ -13,12 +13,9 @@ Build Instructions
 
 ### Ubuntu Touch
 
-  1. Install the Ubuntu Touch SDK  
-  2. Open Ubuntu-SDK
-  3. Go to `File > Open File or Project..` and open `GearBoy/platforms/ubuntu_touch/gearboy.pro`
-  4. Add the armhf target
-  5. In the menu select `Build > Ubuntu > Install Application on Device`
-  6. Install in release mode
+- [Install Clickable](http://clickable.bhdouglass.com/en/latest/)
+- From the directory `platforms/ubuntu_touch` run `clickable`
+- Clickable will compile the project and install it on your connected device
 
 ### Android & Desktop
 

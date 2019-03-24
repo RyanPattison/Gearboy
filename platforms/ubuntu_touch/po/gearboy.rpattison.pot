@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-24 13:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/main.qml:81
+msgid "ROM failed to load"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/main.qml:106
+msgid "ROM Failed to Load"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/main.qml:146
+msgid "OPEN ROM…"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/main.qml:202
+msgid "SELECT"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/main.qml:225
+msgid "START"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/SettingsView.qml:16
+msgid "Settings"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/SettingsView.qml:39
+msgid "Sound"
+msgstr ""
+
+#: /home/brian/dev/ubuntu/apps/gearboy/original/Gearboy/platforms/ubuntu_touch/SettingsView.qml:64
+msgid "Vibration"
+msgstr ""

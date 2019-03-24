@@ -6,9 +6,8 @@
 int main(int argc, char *argv[])
 {
 	QApplication app(argc, argv);
-	app.setOrganizationName("gearboy");
-    app.setOrganizationDomain("rpattison.com");
-    app.setApplicationName("GearBoy");
+	app.setOrganizationName("gearboy.rpattison");
+	app.setApplicationName("gearboy.rpattison");
 
 	qmlRegisterType<GBEmulator>("GearBoy", 1, 0, "GearBoyEmulator");
 

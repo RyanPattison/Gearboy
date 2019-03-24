@@ -12,6 +12,6 @@
     },
     "version": "1.0",
     "maintainer": "Ryan Pattison <ryan@theinternetemail.com>",
-    "framework": "ubuntu-sdk-15.04"
+    "framework": "ubuntu-sdk-16.04"
 }
 
